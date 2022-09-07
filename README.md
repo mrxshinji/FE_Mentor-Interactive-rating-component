@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./images/for_readme/rating_thankYou.png)
 ### Links
 
-- Solution URL: [https://github.com/mrxshinji/FE_Mentor-QR]
-- Live Site URL: [https://mrxshinji.github.io/FE_Mentor-QR/]
+- Solution URL: https://github.com/mrxshinji/FE_Mentor-Interactive-rating-component
+- Live Site URL: https://mrxshinji.github.io/FE_Mentor-Interactive-rating-component/
 
 ## My process
 
