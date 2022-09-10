@@ -23,6 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Thank You card
 ![](./images/for_readme/rating_thankYou.png)
+
 ### Links
 
 - Solution URL: https://github.com/mrxshinji/FE_Mentor-Interactive-rating-component
